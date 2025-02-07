@@ -17,19 +17,6 @@ I am a passionate junior developer with experience in **HTML, CSS (Tailwind), Py
 
 ---
 
-## 🌟 Featured Projects
-### 🏥 Medical Database System
-- Developed a **secure and efficient** patient record system.
-- Used **Python & PostgreSQL** for backend data processing.
-- Implemented **a user-friendly frontend with Tailwind CSS**.
-
-### 🛒 E-commerce Website
-- Built a **fully responsive** online store with HTML, Tailwind CSS & JavaScript.
-- Integrated a **shopping cart and payment gateway**.
-- Optimized for **performance and SEO**.
-
-*(Check out my GitHub repositories for more projects!)*
-
 ---
 
 ## 📬 Let's Connect!
